@@ -1,0 +1,58 @@
+2025-03-30 21:37:08 - Listed files in /c/Users/User/Documents/Main
+2025-03-30 21:38:05 - Backed up main.sh to /c/Users/User/Documents/Main/Backup
+2025-03-30 21:38:12 - User exited the program.
+2025-03-30 21:40:31 - Counted 9 files in /c/Users/User/Documents/Main
+2025-03-30 21:40:43 - User exited the program.
+2025-03-30 21:41:36 - Checked disk usage for /c/Users/User/Documents/Main
+2025-03-30 21:42:04 - Failed to check disk usage for /c/User/User/Documents/Main: Directory does not exist.
+2025-03-30 21:42:49 - Checked disk usage for /c/Users/User/Documents/Main
+2025-03-30 21:43:12 - Failed to search for jehbvfh in script.log: Directory does not exist.
+2025-03-30 21:43:50 - Searched for script.log in /c/Users/User/Documents/Main
+2025-03-30 21:45:48 - Searched for  in /c/Users/User/Documents
+2025-03-30 21:46:32 - Searched for script.log in /c/Users/User/Documents
+2025-03-30 21:47:20 - Failed to compress *.sh: Source path does not exist.
+2025-03-30 21:47:39 - Failed to compress Main: Source path does not exist.
+2025-03-30 21:48:08 - Failed to compress /c/User/User/Documents/Main: Source path does not exist.
+2025-03-30 21:48:35 - Compressed /c/Users/User/Documents/Main into Lolnasbaby.tar.gz
+2025-03-30 21:48:56 - User exited the program.
+2025-03-31 22:23:40 - Listed files in /c/Users/User/Documents
+2025-03-31 22:28:42 - Backed up /c/Users/User/Documents/Main/backup.sh to /c/Users/User/Documents/Main/Backup
+2025-03-31 22:31:09 - Listed files in /c/Users/User
+2025-03-31 22:31:35 - Counted 10 files in /c/Users/User/Documents
+2025-03-31 22:32:24 - Checked disk usage for /c/Users/User/Documents
+2025-03-31 22:33:49 - Searched for main.sh in /c/Users/User
+2025-03-31 22:34:09 - Searched for main.sh in /c/Users/User/Documents
+2025-03-31 22:42:01 - Failed to search for Hery.cpp in /DATA(D:)/CADT/Programming/Cpp/: Directory does not exist.
+2025-03-31 22:42:40 - Failed to search for Hery.cpp in /D/CADT/Programming/Cpp/: Directory does not exist.
+2025-03-31 22:43:23 - Searched for main.c in /D/test2/
+2025-03-31 22:46:49 - Compressed /c/Users/User/Documents/Main/main.sh into Otdg.tar.gz
+2025-03-31 22:46:56 - User exited the program.
+2025-03-31 23:11:49 - Checked disk usage for /c/Users/User/Documents
+2025-03-31 23:27:31 - Failed to list files in /c/User: Path does not exist.
+2025-03-31 23:27:41 - Listed files in /c/Users
+2025-03-31 23:28:20 - Listed files in ../
+2025-03-31 23:29:57 - Backed up count_files.sh to /c/Users/User/Documents/Main/Backup
+2025-03-31 23:32:21 - Counted 351944 files in /c/Users/User
+2025-03-31 23:34:08 - Failed to check disk usage for /c/Users/User/Docuuments: Directory does not exist.
+2025-03-31 23:34:30 - Checked disk usage for /c/Users/User/Documents
+2025-03-31 23:41:01 - Backed up main.sh to /c/Users/User/Documents/Main/Backup
+2025-03-31 23:43:03 - Compressed Backup into Backup.tar.gz
+2025-04-02 22:35:46 - Listed files in ./
+2025-04-02 22:36:31 - Listed files in /c/Users/User/Documents/Main
+2025-04-02 22:37:46 - Backed up list.sh to Backup
+2025-04-02 22:38:42 - Counted 15 files in ../
+2025-04-02 22:40:07 - Checked disk usage for ./
+2025-04-02 22:43:41 - Searched for main.sh in /c/Users/User
+2025-04-02 22:45:36 - Searched for Main.sh in /c/Users/User
+2025-04-02 22:45:59 - Searched for main.sh in /c/Users/User
+2025-04-02 22:48:05 - Compressed script.log into Seymindg.tar.gz
+2025-04-02 22:48:11 - User exited the program.
+2025-04-02 22:51:20 - Failed to check disk usage for main.sh: Directory does not exist.
+2025-04-02 22:51:39 - Checked disk usage for ./
+2025-04-02 22:54:44 - Failed to check disk usage for /D/CADT/Programming: Directory does not exist.
+2025-04-02 22:55:13 - Checked disk usage for /D/test2
+2025-04-02 22:56:12 - Failed to check disk usage for Desktop: Directory does not exist.
+2025-04-02 23:04:12 - Failed to search for backup.sh in /c/User/User: Directory does not exist.
+2025-04-02 23:04:42 - Searched for backup.sh in /c/Users/User
+2025-04-02 23:05:34 - Compressed Backup into Lol.tar.gz
+2025-04-02 23:05:38 - User exited the program.
