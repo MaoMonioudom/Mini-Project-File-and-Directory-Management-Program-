@@ -26,3 +26,8 @@ chmod +x *.sh
 ./main.sh
 ```
 
+### To view all log action in script.log
+```bash
+chmod 666 script.log
+cat script.log
+```
