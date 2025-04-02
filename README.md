@@ -18,9 +18,11 @@ cd Mini-Project-File-and-Directory-Management-Program-
 ```
 ### Step 2: Set Execution permission
 ```bash
+cd Main
 chmod +x *.sh
 ```
 ### Step 3: Run the project
 ```bash
 ./main.sh
 ```
+
